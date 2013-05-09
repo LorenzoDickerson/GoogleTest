@@ -1,0 +1,97 @@
+.HeaderBar {
+	background-color: black;
+	list-style: none;
+	margin: 0;
+	float: left;
+	font-family: 'Tahoma';
+	font-weight: bold;
+	width: 100%;
+	font-size: 12px;
+	padding: 5px;
+}
+
+#Navigation li a {
+	float: left;
+	color: #d5d5d5;
+	text-decoration: none;	
+	padding: 8px;
+}
+
+#Navigation li a:hover {
+	float: left;
+	color: white;
+	text-decoration: none;
+}
+
+#NavButtons li a {
+	float: left;
+	color: white;
+	text-decoration: none;
+}
+
+#searchbox {
+	text-align: center;
+	padding: 175px;
+	width: 500px;
+	margin: 0px auto;
+}
+
+img {
+	width: 250px;
+	height: 95px
+}
+
+button {
+	border: #00fff;
+	border-style: solid;
+	background-color: #d3d3d3;
+	padding: 7px;
+}
+
+.SearchArea {
+	width: 450px;
+	padding: 2px;
+}
+
+#FooterArea {
+	float: right;
+	right: 5px;
+	padding: 10px;
+	margin: 0px;
+	width: 100%;
+	background: white;
+	color: #000000;
+	text-decoration: none;
+	position: absolute;
+	bottom: 5px;
+	font-weight: normal;
+}
+
+.FooterBar {
+	background-color: white;
+	list-style: none;
+	margin: 0;
+	float: right;
+	font-family: 'Tahoma';
+	font-weight: bold;
+	width: 100%;
+	font-size: 12px;
+}
+
+#FooterBar li a{
+	float: right;
+	margin: 0px;
+	text-decoration: none;
+	padding: 10px;
+	color: #000000;
+	font-weight: normal;
+}
+
+#FooterBar li a:hover{
+	float: right;
+	margin: 0px;
+	text-decoration: underline;
+	padding: 10px;
+	color: #000000;
+	font-weight: normal;
+}
